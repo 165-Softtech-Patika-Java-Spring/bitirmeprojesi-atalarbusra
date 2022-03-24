@@ -1,12 +1,11 @@
-# Bitirme Projesi
+Merhaba,
 
-Projenin Konusu:
-Bir marketteki ürünlerin satış fiyatlarına göre son fiyatlarını belirleyen servisin Spring Boot Framework
-kullanılarak yazılması ve isteğe bağlı olarak önyüzünün yazılması.
+Bu projemden bir marketteki ürünlerin satış fiyatlarına göre son fiyatlarını belirleyen servisin Spring Boot Framework
+kullanarak geliştirdim.
 
-> **Gereksinimler:**
+Projede kullanış olduğum teknolojiler: Spring Boot Framework, Mapper, Swagger, JWT, H2 database.
 
-> **Backend:**
+
 
 - Kullanıcıdan kullanıcı adı, şifre, isim, soy isim bilgilerini alarak sisteme kayıt yapılır.
 - Sisteme kayıtlı kullanıcılar market ürünlerinin veri girişini yapabilir.
@@ -47,3 +46,5 @@ durumunda tüm işlemler geri alınmalıdır.
 - Hatalı işlemler için doğru hata kodlarının dönüldüğünden emin olunuz.
 > Test:
 - Unit ve integration testleri yazınız. 
+
+
